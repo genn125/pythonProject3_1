@@ -16,3 +16,4 @@ def single_root_words(txt, *other_words, root_words='гриб'):
 single_root_words('"гриб" есть в словах:','грибник', 'гриБной', 'гробница', 'грибОЧЕк')
 single_root_words('В слове "обелиск" присутствуют слова:','Чёрный', 'Обе', 'двЕ', 'ЛИС',
                   root_words = 'обелиск')
+
